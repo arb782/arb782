@@ -2,7 +2,7 @@
 
 🎯 Developer | 💡 Lifelong Learner | 🌐 Tech Enthusiast
 
-Welcome to my GitHub profile. I'm a future Computer Engineer passionate about building efficient, scalable, and well-designed solutions. I enjoy learning new technologies and applying that knowledge to real-world projects.
+Welcome to my GitHub profile. I'm a future Computer Engineer passionate about Cybersecurity and building efficient, scalable, and well-designed solutions. I enjoy learning new technologies and applying that knowledge to real-world projects.
 
 ---
 
@@ -28,8 +28,6 @@ Welcome to my GitHub profile. I'm a future Computer Engineer passionate about bu
 
 ## 🏅 Certifications & Badges
 [![Badge 1](https://images.credly.com/size/110x110/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)](https://www.credly.com/badges/4dc1ed13-89c1-4416-87ae-f6b2ed8cd214/public_url)  
-[![Badge 2](https://images.credly.com/your-badge2-image-url.png)](https://www.credly.com/badges/your-badge2-link)  
-[![Badge 3](https://images.credly.com/your-badge3-image-url.png)](https://www.credly.com/badges/your-badge3-link)  
 
 > You can see all my certifications on my [Credly profile](https://www.credly.com/users/alejandro-miguel-ruiz-banos).
 
