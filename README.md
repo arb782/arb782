@@ -20,9 +20,11 @@ Welcome to my GitHub profile. I'm a future Computer Engineer passionate about Cy
 
 ## 📂 Featured Projects
 
-- [🔗 Project Name 1](https://github.com/yourusername/project1) – Brief project description.  
-- [🔗 Project Name 2](https://github.com/yourusername/project2) – Brief project description.  
-- [🔗 Project Name 3](https://github.com/yourusername/project3) – Brief project description.  
+- [🔗 JavaDataStructures](https://github.com/arb782/JavaDataStructures) – A project to practice and understand data structures using Java.
+- [🔗 CSharpSoftwareServices](https://github.com/arb782/CSharpSoftwareServices) – A project to learn how to develop software services using C# and .NET.
+- [🔗 SQL-APIRest](https://github.com/arb782/SQL-APIRest) – A project focused on building RESTful APIs using Slim, PHP, Composer, Apache/Nginx, and Docker, with SQL as the backend.
+- [🔗 JavaAlgorithms](https://github.com/arb782/JavaAlgorithms) – A project to study and implement core programming algorithms.
+- [🔗 UMLModeling](https://github.com/arb782/UMLModeling) – A project aimed at learning how to design UML diagrams commonly used in real-world software development.
 
 ---
 
@@ -35,7 +37,7 @@ Welcome to my GitHub profile. I'm a future Computer Engineer passionate about Cy
 
 ## 📫 Get in Touch
 
-- 🌐 [My personal portfolio](https://yourwebsite.com)  
+<!-- - 🌐 [My personal portfolio](https://yourwebsite.com) --> 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-miguel-ruiz-banos)  
 - ✉️ Email: aruizbaos@gmail.com
 
